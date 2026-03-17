@@ -17,7 +17,7 @@ body {
     background: #28323c;
 }
 
-.vizitka h1{ color:#ffff !important;font-weight:100;}
+.vizitka h1{ color:#ffff !important;font-weight:100 !important;}
 
 .vizitka p{ color:#ffff !important;}
 
