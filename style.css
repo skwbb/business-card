@@ -17,9 +17,9 @@ body {
     background: #28323c;
 }
 
-.vizitka h1{ color:#ffff;}
+.vizitka h1{ color:#ffff !important;}
 
-.vizitka p{ color:#ffff;}
+.vizitka p{ color:#ffff !important;}
 
 
 .btn-save { 
