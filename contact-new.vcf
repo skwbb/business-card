@@ -2,6 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 FN;CHARSET=UTF-8:Денис Андреев
 TEL;TYPE=CELL:+79169474814
-ORG;CHARSET=UTF-8:protec
-TITLE;CHARSET=UTF-8:руководитель отдела системный алюминий
+ORG;CHARSET=UTF-8:Schtandart Partner
+TITLE;CHARSET=UTF-8:Руководитель отдела
+EMAIL:andreev@oknadomkom.ru
+URL:https://www.oknadomkom.ru
 END:VCARD
