@@ -9,13 +9,13 @@ body {
     margin: 0; 
 }
 .vizitka { 
-    padding: 30px; 
-    border-radius: 20px 0px 20px 0px;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.1); 
-    text-align: center; 
+    padding: 30px;
+    border-radius: 100px 0px 100px 0px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    text-align: center;
     width: 300px;
     background: #28323c;
-    height: 71vh;
+    height: 70vh;
 }
 
 .vizitka h1{ color:#fff !important;font-weight:300 !important;}
