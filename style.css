@@ -56,12 +56,4 @@ body {
     position: relative;
 }
 
-.social::after {
-   content: "";
-    position: absolute;
-    left: -70px;
-    bottom: 21px;
-    width: 240px;
-    height: 0.5px;
-    background: #ffffff;
-}
+
