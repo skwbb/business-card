@@ -46,4 +46,9 @@ body {
     margin-bottom: 27px;
     gap: 20px;
 }
+
+.social{
+    display: flex;
+    
+}
     
