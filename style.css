@@ -54,4 +54,13 @@ body {
     margin-bottom: -30px;
     margin-left: 60px;
 }
-    
+
+.social{::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -5px;      /* Регулируйте расстояние (ближе/дальше) */
+  width: 50px;       /* Можно задать любую длину линии */
+  height: 2px;       /* Толщина линии */
+  background: red;   /* Цвет */
+}
