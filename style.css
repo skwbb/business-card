@@ -57,11 +57,11 @@ body {
 }
 
 .social::after {
-    content: "";
+   content: "";
     position: absolute;
-    left: -95px;
+    left: -70px;
     bottom: 21px;
-    width: 300px;
+    width: 240px;
     height: 0.5px;
     background: #ffffff;
 }
