@@ -55,7 +55,7 @@ body {
     margin-left: 60px;
 }
 
-.social{::after {
+.social::after {
   content: "";
   position: absolute;
   left: 0;
