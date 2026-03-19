@@ -51,9 +51,10 @@ body {
     display: flex;
     align-items: center;
     margin-top: -70px;
-    margin-bottom: -30px;
+    margin-bottom: 0px;
     margin-left: 60px;
     position: relative;
+    margin-left: 100px;
 }
 
 
