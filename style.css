@@ -49,6 +49,9 @@ body {
 
 .social{
     display: flex;
+    align-items: center;
+    margin-top: -70px;
+
     
 }
     
